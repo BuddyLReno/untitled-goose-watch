@@ -1,0 +1,19 @@
+.background {
+  fill: black;
+}
+
+.Watchface {
+  fill: white;
+  text-anchor: end;
+  text-length: 32;
+}
+
+.Watchface-clock {
+  font-size: 60;
+  font-family: "Seville-Bold";
+}
+
+.Watchface-date {
+  font-size: 40;
+  font-family: "Seville-Bold";
+}

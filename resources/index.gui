@@ -1,0 +1,5 @@
+<svg id="Watchface" class="background">
+  <image id="goose" class="image" href="goose.png" />
+  <text id="clock" class="Watchface Watchface-clock">Clock</text>
+  <text id="shortDate" class="Watchface Watchface-date">Date</text>
+</svg>
